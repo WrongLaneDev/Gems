@@ -1,0 +1,41 @@
+html {
+    background-image: url(Gems\(original\).png);
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(255, 254, 254);
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 100px;
+    padding-bottom: 2000px;
+    background-color: rgb(58, 48, 68);
+    color: rgb(255, 254, 254);
+}
+
+#Knopf {
+    padding-left: 250px;
+}
+
+button {
+    margin-left: -300;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #07ff28;
+    border-radius: 40px;
+    background-image: url(Gems.png);
+    background-size: cover;
+    background-color: rgb(9, 136, 9);
+    background-repeat: no-repeat;
+    color: rgb(111, 255, 0);
+    height: 100px;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #000000;
+}
